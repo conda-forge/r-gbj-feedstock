@@ -3,6 +3,7 @@ About r-gbj-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gbj-feedstock/blob/main/LICENSE.txt)
 
+
 About r-gbj
 -----------
 
@@ -11,6 +12,7 @@ Home: https://CRAN.R-project.org/package=GBJ
 Package license: GPL-3.0-only
 
 Summary: Offers the Generalized Berk-Jones (GBJ) test for set-based inference in genetic association studies. The GBJ is designed as an alternative to tests such as Berk-Jones (BJ), Higher Criticism (HC), Generalized Higher Criticism (GHC), Minimum p-value (minP), and Sequence Kernel Association Test (SKAT). All of these other methods (except for SKAT) are also implemented in this package, and we additionally provide an omnibus test (OMNI) which integrates information from each of the tests. The GBJ has been shown to outperform other tests in genetic association studies when signals are correlated and moderately sparse. Please see the vignette for a quickstart guide or the paper at <doi:10.1080/01621459.2019.1660170> for full details.
+
 About r-gbj
 -----------
 
@@ -153,7 +155,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
